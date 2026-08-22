@@ -18,7 +18,7 @@ Ihnen gewählten Daten unterstützt werden.
 ## Auftrag
 
 Überprüfen Sie die von Ihnen formulierte Hypothese anhand der gefundenen
-Daten. 
+Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation. 
 
 ## Besondere Anordnungen
 
