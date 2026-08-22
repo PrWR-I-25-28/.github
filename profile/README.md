@@ -40,7 +40,7 @@ Daten.
   - 25\. September 26: Abgabe der Arbeit
 - Tech Stack:
   - Python mit Pandas, NumPy und Matplotlib (und weiterer erforderlicher
-    Libaries)
+    Libraries)
   - Jupyter Notebooks
   - git und GitHub
 - Inhaltliche Auflagen:
@@ -51,7 +51,8 @@ Daten.
 - Formelle Auflagen:
   - Die Arbeit ist mit git zu versionieren.
   - Gearbeitet wird im `dev`-Branch (weitere Unterbranches sind zulässig).
-  - Abgaben erfolgen als Pull Request von `dev` nach `main`.
+  - Abgaben erfolgen als Pull Request von `dev` nach `main` (nur den
+    Pull Request erstellen, nicht mergen).
   - Halten Sie sich bezüglich der Versionierung an die [best
     practices](https://gist.github.com/Aditi3/a7a1ddd1ecef73dab548f7955210cfff)
     für git.
