@@ -17,6 +17,8 @@ Ihnen gewählten Daten unterstützt werden.
 
 ## Auftrag
 
+Formulieren Sie die Überprüfung Ihrer Hypothese.
+
 ## Besondere Anordnungen
 
 ## Kommunikation
