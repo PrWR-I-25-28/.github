@@ -9,6 +9,12 @@ für Data Science-Arbeiten vertraut zu machen.
 
 ## Absicht
 
+Ich will, dass Sie in Gruppen im Rahmen des von Ihnen gewählten Themas
+eine Hypothese formulieren und diese gestützt auf amtlich zur Verfügung
+gestellte Daten prüfen. Die Prüfung der Hypothese soll zur besseren
+Verständlichkeit Ihrer Argumentation durch eine Visualisierung der von
+Ihnen gewählten Daten unterstützt werden.
+
 ## Auftrag
 
 ## Besondere Anordnungen
