@@ -60,3 +60,7 @@ Formulieren Sie die Überprüfung Ihrer Hypothese.
   ungenügenden Beurteilung.
 
 ## Kommunikation
+
+Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
+Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
+zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
