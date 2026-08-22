@@ -17,7 +17,8 @@ Ihnen gewählten Daten unterstützt werden.
 
 ## Auftrag
 
-Formulieren Sie die Überprüfung Ihrer Hypothese.
+Überprüfen Sie die von Ihnen formulierte Hypothese anhand der gefundenen
+Daten. 
 
 ## Besondere Anordnungen
 
