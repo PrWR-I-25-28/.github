@@ -21,4 +21,42 @@ Formulieren Sie die Überprüfung Ihrer Hypothese.
 
 ## Besondere Anordnungen
 
+- Gruppeneinteilung:
+  - **UNO**: Anass, Levin, Yann, Cédric
+  - **DUE**: Camilla, Sarah, Lucija
+  - **TRE**: Fatlind, Kay, Hassan
+  - **QUATRO**: Louis, Ledion, Silvan
+  - **CINQUE**: Livio, Artem, Lav, Thanos
+- Themenzuteilung:
+  - **UNO**: Geographische Verteilung der Maturandenquote in der Schweiz
+  - **DUE**: Geographische Verteilung der privaten PV-Anlagen
+  - **TRE**: Zusammenhang zwischen Immobilienpreisen und Anbindung an
+    den öffentlichen Verkehr
+  - **QUATRO**: Geographische Verteilung der Maturandenquote in der Schweiz
+  - **CINQUE**: Autodichte im Kanton Zürich
+- Termine:
+  - 4\. September 26: Abgabe Zeitplan und Analyse des Auftrags
+  - 25\. September 26: Abgabe der Arbeit
+- Tech Stack:
+  - Python mit Pandas, NumPy und Matplotlib (und weiterer erforderlicher
+    Libaries)
+  - Jupyter Notebooks
+  - git und GitHub
+- Inhaltliche Auflagen:
+  - Es ist eine überprüfbare Hypothese zu formulieren.
+  - Die Quelle der verwendeten Daten ist offenzulegen.
+  - Die Aufbereitung der Daten hat innerhalb des Jupyter Notebooks zu erfolgen.
+  - Die Daten sind zur Unterstützung der Argumentation zu visualisieren.
+- Formelle Auflagen:
+  - Die Arbeit ist mit git zu versionieren.
+  - Gearbeitet wird im `dev`-Branch (weitere Unterbranches sind zulässig).
+  - Abgaben erfolgen als Pull Request von `dev` nach `main`.
+  - Halten Sie sich bezüglich der Versionierung an die [best
+    practices](https://gist.github.com/Aditi3/a7a1ddd1ecef73dab548f7955210cfff)
+    für git.
+- Beurteilung:
+  Die Beurteilung erfolgt entlang der Inhaltlichen und Formellen
+  Auflagen. Nicht eingehaltene Termine führen automatisch zu einer
+  ungenügenden Beurteilung.
+
 ## Kommunikation
