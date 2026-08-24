@@ -59,7 +59,12 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
 - Beurteilung:
   Die Beurteilung erfolgt entlang der Inhaltlichen und Formellen
   Auflagen. Nicht eingehaltene Termine führen automatisch zu einer
-  ungenügenden Beurteilung.
+  ungenügenden Beurteilung. Das persönliche Engagement, gemessen an der
+  Einhaltung der formellen Auflagen (Versionierung) im git log, wird zu
+  einem Drittel gewichtet (im Fall von pair programming ist 
+  dieses im Text der jeweiligen Commits mit dem Namen des Partners
+  festzuhalten). Die Teamleistung beträgt zwei Drittel der Note und
+  setzt sich aus dem Rest der Kriterien zusammen. 
 
 ## Kommunikation
 
