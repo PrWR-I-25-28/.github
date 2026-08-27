@@ -25,7 +25,7 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
 - Gruppeneinteilung:
   - **UNO**: Anass, Levin, Yann, Cédric
   - **DUE**: Camilla, Sarah, Lucija
-  - **TRE**: Fatlind, Kay, Hassan
+  - **TRE**: Fatlind, Kay, Hassan, Niaz
   - **QUATRO**: Louis, Ledion, Silvan
   - **CINQUE**: Livio, Artem, Lav, Thanos
 - Themenzuteilung:
