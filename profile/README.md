@@ -71,7 +71,6 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
 Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
 Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
 zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
-<<<<<<< HEAD
 
 ## Git & GitHub – Tutorial für Projektauftrag Nr. 1
 
