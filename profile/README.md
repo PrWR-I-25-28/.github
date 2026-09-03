@@ -36,7 +36,7 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
   - **QUATRO**: Geographische Verteilung der Maturandenquote in der Schweiz
   - **CINQUE**: Autodichte im Kanton Zürich
 - Termine:
-  - 4\. September 26: Abgabe Zeitplan und Analyse des Auftrags
+  - 10\. September 26: Abgabe Zeitplan und Analyse des Auftrags
   - 25\. September 26: Abgabe der Arbeit
 - Tech Stack:
   - Python mit Pandas, NumPy und Matplotlib (und weiterer erforderlicher
