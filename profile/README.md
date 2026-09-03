@@ -214,5 +214,4 @@ Fragen an die Lehrperson laufen über **Issues**:
 | Hochladen | `git push` |
 | Branch wechseln | `git checkout <branch>` |
 | Verlauf ansehen | `git log --oneline` |
-=======
->>>>>>> origin/main
+
