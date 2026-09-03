@@ -89,7 +89,7 @@ git config --global user.name "Vorname Nachname"
 git config --global user.email "eure@email.ch"
 ```
 
-## 1. Repository aufsetzen
+### 1. Repository aufsetzen
 
 Eine Person der Gruppe legt auf GitHub ein neues Repository an (z. B. `prwr-projekt-uno`), dann:
 
@@ -101,7 +101,7 @@ cd prwr-projekt-uno
 Danach die übrigen Gruppenmitglieder als **Collaborators** hinzufügen: auf
 GitHub unter *Settings → Collaborators*. Alle anderen klonen dann dasselbe Repo.
 
-## 2. Der `dev`-Branch
+### 2. Der `dev`-Branch
 
 Der Auftrag verlangt: gearbeitet wird im `dev`-Branch, `main` bleibt
 unangetastet bis zum Pull Request.
@@ -118,7 +118,7 @@ Prüfen, wo ihr gerade seid:
 git branch                 # der aktuelle Branch ist mit * markiert
 ```
 
-## 3. Der tägliche Arbeitszyklus
+### 3. Der tägliche Arbeitszyklus
 
 Das ist die Schleife, die ihr immer wieder durchlauft:
 
@@ -132,7 +132,7 @@ git push                   # 4. auf GitHub hochladen
 
 Mit `git status` seht ihr jederzeit, was geändert, aber noch nicht committet ist.
 
-## 4. Gute Commits (das zählt für ein Drittel der Note!)
+### 4. Gute Commits (das zählt für ein Drittel der Note!)
 
 Die Beurteilung misst euer persönliches Engagement am `git log`. Deshalb:
 
@@ -146,7 +146,7 @@ git commit -m "Bereinige fehlende Werte in PV-Datensatz
 Co-authored-by: Sarah <sarah@email.ch>"
 ```
 
-## 5. Konflikte (kein Grund zur Panik)
+### 5. Konflikte (kein Grund zur Panik)
 
 Wenn zwei Personen dieselbe Datei ändern, meldet Git beim `pull` oder `merge`
 einen Konflikt. Git markiert die betroffene Stelle in der Datei so:
@@ -171,7 +171,7 @@ weil sie Ausgaben mitspeichern. Teilt die Arbeit möglichst so auf, dass nicht
 zwei gleichzeitig dasselbe Notebook bearbeiten – oder nutzt getrennte
 Notebooks und führt sie später zusammen.
 
-## 6. Optional: Unterbranches
+### 6. Optional: Unterbranches
 
 Erlaubt und sauber ist es, pro Teilaufgabe einen eigenen Branch von `dev` zu machen:
 
@@ -193,7 +193,7 @@ Zum Abgabetermin (25. September):
 4. Titel und Beschreibung ausfüllen, **Create pull request** klicken.
 5. **Nicht mergen!** Der Auftrag verlangt ausdrücklich nur das Erstellen des Pull Requests.
 
-## 8. Kommunikation: Fragen als Issue
+### 8. Kommunikation: Fragen als Issue
 
 Fragen an die Lehrperson laufen über **Issues**:
 
@@ -203,7 +203,7 @@ Fragen an die Lehrperson laufen über **Issues**:
 
 ---
 
-## Spickzettel
+### Spickzettel
 
 | Zweck | Befehl |
 |---|---|
