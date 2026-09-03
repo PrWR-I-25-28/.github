@@ -25,7 +25,7 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
 - Gruppeneinteilung:
   - **UNO**: Anass, Levin, Yann, Cédric
   - **DUE**: Camilla, Sarah, Lucija
-  - **TRE**: Fatlind, Kay, Hassan
+  - **TRE**: Fatlind, Kay, Hassan, Niaz
   - **QUATRO**: Louis, Ledion, Silvan
   - **CINQUE**: Livio, Artem, Lav, Thanos
 - Themenzuteilung:
@@ -71,6 +71,7 @@ Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation.
 Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
 Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
 zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
+<<<<<<< HEAD
 
 ## Git & GitHub – Tutorial für Projektauftrag Nr. 1
 
@@ -214,3 +215,5 @@ Fragen an die Lehrperson laufen über **Issues**:
 | Hochladen | `git push` |
 | Branch wechseln | `git checkout <branch>` |
 | Verlauf ansehen | `git log --oneline` |
+=======
+>>>>>>> origin/main
