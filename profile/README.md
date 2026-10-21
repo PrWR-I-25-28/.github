@@ -95,6 +95,12 @@ Ihnen gewählten Daten unterstützt werden.
 Überprüfen Sie die von Ihnen formulierte Hypothese anhand der gefundenen
 Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation. 
 
+## Kommunikation
+
+Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
+Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
+zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
+
 ## Besondere Anordnungen
 
 - Gruppeneinteilung:
