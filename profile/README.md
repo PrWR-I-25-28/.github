@@ -7,6 +7,14 @@ und den Python Libraries zur Datenvisualisierung vertraut gemacht haben,
 geht es im Folgenden darum, die gewonnenen Erkenntnisse auf die
 Situation der Altersvorsorge in der Schweiz anzuwenden.
 
+## Absicht
+
+Ich will, dass sich die Klasse in einer ersten Phase in fünf Gruppen
+konstituiert, in einer zweiten Phase in den Gruppen eine
+Arbeitshypothese bezüglich der Altersvorsorge formuliert und diese in
+einer dritten Phase mit Mitteln der Datenanalyse überprüft.
+
+
 
 # Projektauftrag Nr. 1: Einstiegsübung Datenvisualisierung
 
