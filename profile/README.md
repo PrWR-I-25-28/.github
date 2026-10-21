@@ -1,3 +1,13 @@
+# Projektauftrag Nr. 2: Anwendungsübung Altersvorsorge
+
+## Orientierung
+
+Nachdem Sie sich mit den Möglichkeiten und Grenzen von Jupyter Notebooks
+und den Python Libraries zur Datenvisualisierung vertraut gemacht haben,
+geht es im Folgenden darum, die gewonnenen Erkenntnisse auf die
+Situation der Altersvorsorge in der Schweiz anzuwenden.
+
+
 # Projektauftrag Nr. 1: Einstiegsübung Datenvisualisierung
 
 ## Orientierung
