@@ -20,6 +20,59 @@ Verfassen Sie eine Überprüfung der bewilligten Arbeitshypothese und
 halten Sie sich bereit, Ihre Erkenntnisse in der Woche vor Weihnachten
 zu präsentieren.
 
+## Besondere Anordnungen
+
+- Gruppeneinteilung:
+  - **ABLE**:
+  - **BAKER**:
+  - **CHARLIE**:
+  - **DOG**:
+  - **EASY**:
+- Bewilligte Hypothesen:
+  - **ABLE**:
+  - **BAKER**:
+  - **CHARLIE**:
+  - **DOG**:
+  - **EASY**:
+- Termine:
+  - 29.\ Oktober 26: Antrag Hypothese
+  - 12.\ November 26: Disposition
+  - 12.\ Dezember 26: Abgabe ausgearbeitete Beurteilung der Hypothese
+- Tech Stack:
+  - Python mit Pandas, NumPy und Matplotlib (und weiterer erforderlicher
+    Libraries)
+  - Jupyter Notebooks
+  - git und GitHub
+- Inhaltliche Auflagen:
+  - Es ist eine überprüfbare Hypothese zu formulieren.
+  - Die Quelle der verwendeten Daten ist offenzulegen.
+  - Die Aufbereitung der Daten hat innerhalb des Jupyter Notebooks zu erfolgen.
+  - Die Daten sind zur Unterstützung der Argumentation zu visualisieren.
+- Formelle Auflagen:
+  - Die Arbeit ist mit git zu versionieren.
+  - Gearbeitet wird im `dev`-Branch (weitere Unterbranches sind zulässig).
+  - Abgaben erfolgen als Pull Request von `dev` nach `main` (nur den
+    Pull Request erstellen, nicht mergen).
+  - Halten Sie sich bezüglich der Versionierung an die [best
+    practices](https://gist.github.com/Aditi3/a7a1ddd1ecef73dab548f7955210cfff)
+    für git.
+- Beurteilung:
+  Die Beurteilung erfolgt entlang der Inhaltlichen und Formellen
+  Auflagen. Nicht eingehaltene Termine führen automatisch zu einer
+  ungenügenden Beurteilung. Das persönliche Engagement, gemessen an der
+  Einhaltung der formellen Auflagen (Versionierung) im git log, wird zu
+  einem Drittel gewichtet (im Fall von pair programming ist 
+  dieses im Text der jeweiligen Commits mit dem Namen des Partners
+  festzuhalten). Die Teamleistung beträgt zwei Drittel der Note und
+  setzt sich aus dem Rest der Kriterien zusammen. Die Disposition wird
+  als eigene Einheit in die Beurteilung einbezogen. Dabei wird auf die
+  Kriterien in Sachs, Sybille, und Andrea Hauser. Das ABC der
+  betriebswirtschaftlichen Forschung: Anleitung zum wissenschaftlichen
+  Arbeiten. Versus, 2002, abgestellt.
+- Hinweis:
+  Sie müssen damit Rechnen, dass die Beurteilungskriterien bis zur
+  Abgabe der Disposition noch ergänzt werden können.
+
 # Projektauftrag Nr. 1: Einstiegsübung Datenvisualisierung
 
 ## Orientierung
