@@ -1,3 +1,194 @@
+# Projektauftrag Nr. 2: Anwendungsübung Altersvorsorge
+ 
+## Orientierung
+ 
+Im Projektauftrag Nr. 1 haben Sie sich mit den Möglichkeiten und Grenzen
+von Jupyter Notebooks und den Python Libraries zur Datenvisualisierung
+vertraut gemacht. Im Folgenden wenden Sie die gewonnenen Erkenntnisse
+auf die Situation der Altersvorsorge in der Schweiz an.
+ 
+Gegenüber dem ersten Auftrag steigen die Anforderungen in drei Punkten:
+ 
+- Sie formulieren Ihre Hypothese selbst und beantragen deren
+  Bewilligung.
+- Sie planen Ihre Arbeit mit einer Disposition nach den Regeln des
+  wissenschaftlichen Arbeitens.
+- Sie führen mehrere Datensätze zusammen und diskutieren die Grenzen
+  Ihrer Analyse.
+## Absicht
+ 
+Ich will, dass sich die Klasse in einer ersten Phase in fünf Gruppen
+konstituiert, in einer zweiten Phase in den Gruppen eine
+Arbeitshypothese bezüglich der Altersvorsorge formuliert, diese in einer
+dritten Phase mit Mitteln der Datenanalyse überprüft und die Ergebnisse
+abschliessend der Klasse präsentiert.
+ 
+## Auftrag
+ 
+Überprüfen Sie die bewilligte Arbeitshypothese in einem Jupyter Notebook
+mit Mitteln der Datenanalyse, legen Sie Ihr Ergebnis begründet dar und
+präsentieren Sie Ihre Erkenntnisse in der Woche vom 14. bis 18. Dezember
+2026.
+ 
+## Kommunikation
+ 
+Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
+Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
+zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
+ 
+## Besondere Anordnungen
+ 
+- Gruppeneinteilung:
+  - **ABLE**:
+  - **BAKER**:
+  - **CHARLIE**:
+  - **DOG**:
+  - **EASY**:
+- Bewilligte Hypothesen (werden nach der Bewilligung eingetragen):
+  - **ABLE**:
+  - **BAKER**:
+  - **CHARLIE**:
+  - **DOG**:
+  - **EASY**:
+- Repository:
+  Jede Gruppe legt für diesen Auftrag ein **neues** Repository an (z. B.
+  `prwr-pa2-able`) und fügt alle Gruppenmitglieder sowie die Lehrperson
+  als Collaborators hinzu.
+- Termine (alle Abgaben jeweils bis **23:59 Uhr**):
+  - Do, 29. Oktober 2026: Antrag Hypothese
+  - Di, 3. November 2026: Rückmeldung der Lehrperson (bewilligt / zu
+    überarbeiten)
+  - Do, 5. November 2026: allfällige Überarbeitung des Antrags
+  - Do, 12. November 2026: Disposition
+  - Do, 10. Dezember 2026: Abgabe der ausgearbeiteten Beurteilung der
+    Hypothese
+  - 14.–18. Dezember 2026: Präsentation (genauer Termin gemäss
+    Stundenplan)
+- Abgaben im Detail:
+  - **Antrag Hypothese**: als Issue mit dem Titel
+    `Antrag Hypothese <GRUPPE>`, der Lehrperson zugewiesen. Inhalt:
+    - die Hypothese in einem Satz, überprüfbar formuliert,
+    - eine kurze Begründung (weshalb ist die Hypothese relevant?),
+    - die vorgesehenen Datenquellen mit Links,
+    - eine Skizze des Vorgehens.
+    Die Hypothese wird bewilligt, wenn sie
+    - durch Daten bestätigt oder widerlegt werden kann,
+    - einen klaren Bezug zur Altersvorsorge in der Schweiz hat,
+    - mit verfügbaren Daten überprüfbar ist und
+    - im vorgegebenen Zeitrahmen bearbeitet werden kann.
+    Die Lehrperson antwortet im Issue. Nach der Bewilligung schliesst
+    sie das Issue und trägt die Hypothese oben ein. Wird auch der
+    überarbeitete Antrag nicht bewilligt, gibt die Lehrperson eine
+    Hypothese vor.
+  - **Disposition**: als Datei `disposition.md` im Repository auf dem
+    `dev`-Branch. Der abgabefertige Stand wird mit dem Tag `disposition`
+    markiert (siehe Git-Ergänzung unten). Massgebend ist der Stand des
+    Tags.
+  - **Schlussabgabe**: als Pull Request von `dev` nach `main` (nur den
+    Pull Request erstellen, nicht mergen). Der abgabefertige Stand wird
+    zusätzlich mit dem Tag `abgabe` markiert. Massgebend ist der Stand
+    des Tags.
+- Inhalt der Disposition (in Anlehnung an Sachs, Sybille, und Andrea
+  Hauser. *Das ABC der betriebswirtschaftlichen Forschung: Anleitung zum
+  wissenschaftlichen Arbeiten.* Versus, 2002):
+  - Ausgangslage und Problemstellung
+  - Zielsetzung und Fragestellung
+  - Hypothese (in der bewilligten Fassung)
+  - Abgrenzung (was wird bewusst nicht untersucht?)
+  - Vorgehen und Methode: welche Daten, welche Aufbereitungsschritte,
+    welche Visualisierungen
+  - Provisorische Gliederung des Notebooks
+  - Zeitplan mit Verantwortlichkeiten der Gruppenmitglieder
+  - Quellenverzeichnis
+- Tech Stack:
+  - Python mit Pandas, NumPy und Matplotlib (und weiterer erforderlicher
+    Libraries)
+  - Jupyter Notebooks
+  - git und GitHub
+- Inhaltliche Auflagen:
+  - Grundlage ist die bewilligte, überprüfbare Hypothese.
+  - Die Daten stammen in erster Linie aus amtlichen Quellen (z. B.
+    Bundesamt für Statistik, Bundesamt für Sozialversicherungen). Andere
+    Quellen sind nur zulässig, wenn sie im Antrag begründet und
+    bewilligt wurden.
+  - Die Quellen sind vollständig offenzulegen (Herausgeber, Titel, URL,
+    Abrufdatum).
+  - Mindestens zwei Datensätze werden im Notebook zusammengeführt.
+  - Die Aufbereitung der Daten erfolgt innerhalb des Jupyter Notebooks
+    und ist nachvollziehbar kommentiert.
+  - Die Daten sind zur Unterstützung der Argumentation zu visualisieren
+    (mit Titel, Achsenbeschriftung inkl. Einheiten und Quellenangabe).
+  - Das Fazit hält begründet fest, ob die Hypothese bestätigt, widerlegt
+    oder mit den vorliegenden Daten nicht entscheidbar ist.
+  - Die Grenzen der Analyse werden diskutiert (z. B. Datenqualität,
+    Datenlücken, Korrelation vs. Kausalität).
+- Formelle Auflagen:
+  - Die Arbeit ist mit git zu versionieren.
+  - Gearbeitet wird im `dev`-Branch. Teilaufgaben werden in eigenen
+    Unterbranches bearbeitet (z. B. `dev-datenimport`).
+  - Unterbranches werden per Pull Request in `dev` übernommen. Jeder
+    dieser Pull Requests wird vor dem Merge von einem anderen
+    Gruppenmitglied geprüft (Review).
+  - Die Schlussabgabe erfolgt als Pull Request von `dev` nach `main`
+    (nur den Pull Request erstellen, nicht mergen).
+  - Halten Sie sich bezüglich der Versionierung an die [best
+    practices](https://gist.github.com/Aditi3/a7a1ddd1ecef73dab548f7955210cfff)
+    für git.
+- Präsentation:
+  - 10 Minuten Präsentation, anschliessend 5 Minuten Fragen
+  - Alle Gruppenmitglieder präsentieren einen Teil.
+  - Grundlage ist das Notebook oder daraus abgeleitete Folien.
+- Beurteilung:
+  - Nicht eingehaltene Termine (Antrag, Disposition, Schlussabgabe)
+    führen automatisch zu einer ungenügenden Beurteilung.
+  - **Persönliches Engagement (ein Drittel der Note)**: gemessen an der
+    Einhaltung der formellen Auflagen im git log über die gesamte
+    Projektdauer, einschliesslich der Reviews. Im Fall von pair
+    programming ist der Name des Partners im Text der jeweiligen Commits
+    festzuhalten (`Co-authored-by:`).
+  - **Teamleistung (zwei Drittel der Note)**, bestehend aus:
+    - Disposition: 25 % (Vollständigkeit gemäss obiger Liste,
+      Schlüssigkeit des Vorgehens, Realisierbarkeit des Zeitplans)
+    - Ausgearbeitete Beurteilung der Hypothese: 50 % (Erfüllung der
+      inhaltlichen Auflagen, Schlüssigkeit der Argumentation,
+      Angemessenheit der Visualisierungen, Qualität der Diskussion der
+      Grenzen)
+    - Präsentation: 25 % (Verständlichkeit, Einhaltung der Zeit, Umgang
+      mit Fragen)
+### Git-Ergänzung für Projektauftrag Nr. 2
+ 
+Grundlage bleibt das Tutorial zu Projektauftrag Nr. 1. Neu kommen zwei
+Dinge hinzu.
+ 
+**Abgabestand mit einem Tag markieren** (für Disposition und
+Schlussabgabe):
+ 
+```bash
+git checkout dev
+git pull
+git tag disposition            # bzw. git tag abgabe
+git push origin disposition    # bzw. git push origin abgabe
+```
+ 
+Auf GitHub ist der Tag danach unter *Code → Tags* sichtbar. Prüfen Sie
+das. Verschieben Sie einen gesetzten Tag nach dem Termin nicht mehr.
+ 
+**Unterbranch mit Review in `dev` übernehmen**:
+ 
+```bash
+git checkout dev
+git pull
+git checkout -b dev-datenimport
+# arbeiten, committen ...
+git push -u origin dev-datenimport
+```
+ 
+Auf GitHub dann: **Pull requests** → **New pull request** → **base:**
+`dev` ← **compare:** `dev-datenimport`. Unter **Reviewers** ein anderes
+Gruppenmitglied eintragen. Dieses prüft die Änderungen, kommentiert bei
+Bedarf und genehmigt sie (**Approve**). Erst danach wird gemergt. Im
+Unterschied zur Schlussabgabe **wird dieser Pull Request gemergt**.
+
 # Projektauftrag Nr. 1: Einstiegsübung Datenvisualisierung
 
 ## Orientierung
@@ -19,6 +210,12 @@ Ihnen gewählten Daten unterstützt werden.
 
 Überprüfen Sie die von Ihnen formulierte Hypothese anhand der gefundenen
 Daten und visualisieren Sie diese zur Unterstützung Ihrer Argumentation. 
+
+## Kommunikation
+
+Die Kommunikation erfolgt über die von GitHub zur Verfügung gestellten
+Mittel. Für Fragen an mich erstellen Sie ein ISSUE, das Sie mir
+zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
 
 ## Besondere Anordnungen
 
