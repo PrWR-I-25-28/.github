@@ -14,7 +14,11 @@ konstituiert, in einer zweiten Phase in den Gruppen eine
 Arbeitshypothese bezüglich der Altersvorsorge formuliert und diese in
 einer dritten Phase mit Mitteln der Datenanalyse überprüft.
 
+## Auftrag
 
+Verfassen Sie eine Überprüfung der bewilligten Arbeitshypothese und
+halten Sie sich bereit, Ihre Erkenntnisse in der Woche vor Weihnachten
+zu präsentieren.
 
 # Projektauftrag Nr. 1: Einstiegsübung Datenvisualisierung
 
