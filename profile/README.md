@@ -50,7 +50,10 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
     gestiegen als die Zahl der 20- bis 64-jährigen Personen in der
     ständigen Wohnbevölkerung der Schweiz. 
   - **BAKER**:
-  - **CHARLIE**:
+  - **CHARLIE**: Kantone mit höheren durchschnittlichen Mietpreisen
+    weisen eine höhere EL-Quote bei AHV-Altersrentnerinnen und -rentnern
+    auf, und dieser Zusammenhang ist stärker als derjenige mit der
+    durchschnittlichen AHV-Altersrente im Kanton. 
   - **DOG**:
   - **EASY**:
 - Repository:
