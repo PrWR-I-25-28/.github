@@ -39,11 +39,11 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
 ## Besondere Anordnungen
  
 - Gruppeneinteilung:
-  - **ABLE**:
-  - **BAKER**:
-  - **CHARLIE**:
-  - **DOG**:
-  - **EASY**:
+  - **ABLE**: Anass, Thanos, Lav, Artem
+  - **BAKER**: Lucija, Sarah, Camilla
+  - **CHARLIE**: Fatlind, Kay, Cedric, Hassan
+  - **DOG**: Silvan, Ledion, Louis, Yann
+  - **EASY**: Livio, Levin, Niaz
 - Bewilligte Hypothesen (werden nach der Bewilligung eingetragen):
   - **ABLE**:
   - **BAKER**:
