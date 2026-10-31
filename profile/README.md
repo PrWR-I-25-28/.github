@@ -39,16 +39,25 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
 ## Besondere Anordnungen
  
 - Gruppeneinteilung:
-  - **ABLE**:
-  - **BAKER**:
-  - **CHARLIE**:
-  - **DOG**:
-  - **EASY**:
+  - **ABLE**: Mama Anass, Kalfopoulos Athanasios, Patil Lav, Semerenko Artem
+  - **BAKER**: Canjuga Lucija, Kiser Sarah, Della Santa Camilla
+  - **CHARLIE**: Usteini Fatlind, Jezek Kay, Caviezel Cedric, Alayan Hassan
+  - **DOG**: Castelberg Silvan, Sakaj Ledion, Engel Louis, Eggenberger Yann
+  - **EASY**: Heierli Livio, Schelker Levin, Eisele Niaz
 - Bewilligte Hypothesen (werden nach der Bewilligung eingetragen):
-  - **ABLE**:
+  - **ABLE**: Zwischen 2010 und 2024 ist die Zahl der AHV-Altersrenten
+    mit Wohnsitz der Beziehenden in der Schweiz prozentual stärker
+    gestiegen als die Zahl der 20- bis 64-jährigen Personen in der
+    ständigen Wohnbevölkerung der Schweiz. 
   - **BAKER**:
-  - **CHARLIE**:
-  - **DOG**:
+  - **CHARLIE**: Kantone mit höheren durchschnittlichen Mietpreisen
+    weisen eine höhere EL-Quote bei AHV-Altersrentnerinnen und -rentnern
+    auf, und dieser Zusammenhang ist stärker als derjenige mit der
+    durchschnittlichen AHV-Altersrente im Kanton. 
+  - **DOG**: In Kantonen mit einem höheren Altersquotienten (Personen ab
+    65 pro 100 Personen von 20–64) ist die durchschnittliche
+    AHV-Altersrente tiefer, und Kantone mit tieferer Durchschnittsrente
+    haben eine tiefere Lebenserwartung mit 65. 
   - **EASY**:
 - Repository:
   Jede Gruppe legt für diesen Auftrag ein **neues** Repository an (z. B.
