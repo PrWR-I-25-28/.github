@@ -39,11 +39,11 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
 ## Besondere Anordnungen
  
 - Gruppeneinteilung:
-  - **ABLE**: Anass, Thanos, Lav, Artem
-  - **BAKER**: Lucija, Sarah, Camilla
-  - **CHARLIE**: Fatlind, Kay, Cedric, Hassan
-  - **DOG**: Silvan, Ledion, Louis, Yann
-  - **EASY**: Livio, Levin, Niaz
+  - **ABLE**: Mama Anass, Kalfopoulos Athanasios, Patil Lav, Semerenko Artem
+  - **BAKER**: Canjuga Lucija, Kiser Sarah, Della Santa Camilla
+  - **CHARLIE**: Usteini Fatlind, Jezek Kay, Caviezel Cedric, Alayan Hassan
+  - **DOG**: Castelberg Silvan, Sakaj Ledion, Engel Louis, Eggenberger Yann
+  - **EASY**: Heierli Livio, Schelker Levin, Eisele Niaz
 - Bewilligte Hypothesen (werden nach der Bewilligung eingetragen):
   - **ABLE**:
   - **BAKER**:
