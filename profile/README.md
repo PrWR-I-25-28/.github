@@ -45,7 +45,10 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
   - **DOG**: Castelberg Silvan, Sakaj Ledion, Engel Louis, Eggenberger Yann
   - **EASY**: Heierli Livio, Schelker Levin, Eisele Niaz
 - Bewilligte Hypothesen (werden nach der Bewilligung eingetragen):
-  - **ABLE**:
+  - **ABLE**: Zwischen 2010 und 2024 ist die Zahl der AHV-Altersrenten
+    mit Wohnsitz der Beziehenden in der Schweiz prozentual stärker
+    gestiegen als die Zahl der 20- bis 64-jährigen Personen in der
+    ständigen Wohnbevölkerung der Schweiz. 
   - **BAKER**:
   - **CHARLIE**:
   - **DOG**:
