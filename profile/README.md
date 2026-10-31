@@ -54,7 +54,10 @@ zuweisen. Im Notfall stehe ich Ihnen via Teams zur Verfügung.
     weisen eine höhere EL-Quote bei AHV-Altersrentnerinnen und -rentnern
     auf, und dieser Zusammenhang ist stärker als derjenige mit der
     durchschnittlichen AHV-Altersrente im Kanton. 
-  - **DOG**:
+  - **DOG**: In Kantonen mit einem höheren Altersquotienten (Personen ab
+    65 pro 100 Personen von 20–64) ist die durchschnittliche
+    AHV-Altersrente tiefer, und Kantone mit tieferer Durchschnittsrente
+    haben eine tiefere Lebenserwartung mit 65. 
   - **EASY**:
 - Repository:
   Jede Gruppe legt für diesen Auftrag ein **neues** Repository an (z. B.
